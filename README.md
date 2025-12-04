@@ -8,6 +8,7 @@ Analyze word frequency and ignore common stopwords
 Extract images and alt text
 Save results in TXT, JSON, or CSV formats
 Installation
+''' bash
 Clone the repository:
 git clone https://github.com/soloLevling-hacker/web_analyzer.git
 cd web_analyzer
