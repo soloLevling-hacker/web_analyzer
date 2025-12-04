@@ -17,18 +17,16 @@
 ## Installation
 
 1. Clone the repository:  
-```bash
+```
 git clone https://github.com/yourusername/web_analyzer.git
 cd web_analyzer
 Install dependencies:
 
-bash
 Copy code
 pip install -r requirements.txt
 Usage
 Run the main program:
 
-bash
 Copy code
 python app.py
 Enter the website URL when prompted.
@@ -38,7 +36,6 @@ The program will display meta tags, headings, paragraphs, and images.
 Choose a file format to save the results.
 
 Project Structure
-css
 Copy code
 web_analyzer/
 │
