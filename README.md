@@ -22,12 +22,10 @@ git clone https://github.com/yourusername/web_analyzer.git
 cd web_analyzer
 Install dependencies:
 
-Copy code
 pip install -r requirements.txt
 Usage
 Run the main program:
 
-Copy code
 python app.py
 Enter the website URL when prompted.
 
@@ -36,7 +34,6 @@ The program will display meta tags, headings, paragraphs, and images.
 Choose a file format to save the results.
 
 Project Structure
-Copy code
 web_analyzer/
 │
 ├── app.py
